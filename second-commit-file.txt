@@ -3,3 +3,6 @@ This is a cool file which was added with the second commit.
 
 
 Hihi, fnizz. Jag är sugen på kaffe.
+
+
+Jag va inte alls sugen på kaffe, efter närmare fundering.
